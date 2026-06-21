@@ -181,6 +181,6 @@ Through this project, I learned:
 
 ## Author
 
-Alvira Tirmizi
+SIDRA RANGINWALA
 
-AI & Data Science Student
+AI & ML Student
